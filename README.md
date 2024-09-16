@@ -2,7 +2,7 @@
 
 This repo contains tutorials covering understanding and implementing sequence classification models using PyTorch, with Python 3.9. Specifically, we'll train models to predict sentiment from movie reviews.
 
-*1.Neural Bag of Words
+**1.Neural Bag of Words:
 This repo covers the workflow of a sequence classification project with PyTorch. We'll cover the basics of sequence classification using a simple, but effective, neural bag-of-words model, and how to use the datasets/torchtext libaries to simplify data loading/preprocessing.
 
 *2.Recurrent Neural Network
